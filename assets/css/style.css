@@ -10,7 +10,7 @@
     /* Blue: 238  Purple: 258  Green: 120 Orange : 18*/
 
     /* HSL color mode */
-    --first-color: hsl(var(--hue-color), 95%, 66%);
+    --first-color: hsl(var(--hue-color), 75%, 55%);
     --first-color-second: hsl(var(--hue-color), 69%, 61%);
     --first-color-alt: hsl(var(--hue-color), 57%, 53%);
     --first-color-lighter: hsl(var(--hue-color), 92%, 85%);

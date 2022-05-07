@@ -2,4 +2,4 @@
 
 Portfolio Website Using Html, Css and JavaScript, here is some information about me and a form to contact me.
  
- <img src="" alt="Resume cv" style="max-width: 100%;">
+ <img href="./assets/img/portfolioPreview.png" alt="Resume cv" style="max-width: 100%;">

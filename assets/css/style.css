@@ -6,8 +6,8 @@
     --header-height: 3rem;
 
     /* ========= Colors ========= */
-    --hue-color: 230;
-    /* Blue: 238  Purple: 258  Green: 120 Orange : 18*/
+    --hue-color: 240;
+    /* Blue: 238  Purple: 258  Green: 120 Orange : 18 / 30*/
 
     /* HSL color mode */
     --first-color: hsl(var(--hue-color), 75%, 55%);
@@ -297,12 +297,12 @@ img {
 }
 
 .home_blob {
-    width: 200px;
+    width: 228px;
     fill: var(--first-color);
 }
 
 .home_blob-img {
-    width: 120px;
+    width:  100%;
 }
 
 .home_data {
@@ -751,8 +751,7 @@ img {
             grid-template-columns: .25fr 3fr;
         }
         .home_blob{
-            width: 180px;
-            
+            width: 228px;
         }
         .skills_title{
             font-size: var(--normal-font-size);
@@ -907,6 +906,7 @@ img {
     .home_blob{
         width: 320px;
     }
+
     .home_social{
         transform: translateX(-6rem);
     }
